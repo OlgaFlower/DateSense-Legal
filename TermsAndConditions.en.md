@@ -79,7 +79,18 @@ If you are between the ages of 13 and 17, you acknowledge that the app is design
 
 ---
 
-## 8. Intellectual Property
+## 8. Subscriptions and Payments
+
+DateSense may offer access to certain features through paid subscriptions.
+
+All payments, billing, renewals, and cancellations are processed by Apple via the App Store.  
+DateSense does not collect, store, or have access to your payment information.
+
+Subscription pricing, duration, renewal conditions, and applicable trial periods are presented to you at the time of purchase and are governed by Apple’s App Store policies.
+
+---
+
+## 9. Intellectual Property
 
 All content, design elements, text, and functionality within DateSense are the property of DateSense, unless otherwise stated.
 
@@ -87,7 +98,7 @@ You may not copy, reproduce, distribute, or modify any part of the app without p
 
 ---
 
-## 9. Limitation of Liability
+## 10. Limitation of Liability
 
 To the fullest extent permitted by applicable law:
 - DateSense is provided “as is” and “as available”;
@@ -96,7 +107,7 @@ To the fullest extent permitted by applicable law:
 
 ---
 
-## 10. Changes to These Terms
+## 11. Changes to These Terms
 
 These Terms & Conditions may be updated from time to time.  
 Any changes will be published at this location.
@@ -105,7 +116,7 @@ Continued use of the app after changes indicates acceptance of the updated terms
 
 ---
 
-## 11. Contact
+## 12. Contact
 
 If you have questions regarding these Terms & Conditions, please contact:
 
