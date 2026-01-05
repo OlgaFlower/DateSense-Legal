@@ -82,7 +82,18 @@ Wenn Sie zwischen 13 und 17 Jahre alt sind, bestätigen Sie, dass Sie die App zu
 
 ---
 
-## 8. Geistiges Eigentum
+## 8. Abonnements und Zahlungen
+
+DateSense kann den Zugang zu bestimmten Funktionen über kostenpflichtige Abonnements anbieten.
+
+Alle Zahlungen, Abrechnungen, Verlängerungen und Kündigungen werden von Apple über den App Store abgewickelt.  
+DateSense erhebt, speichert oder verarbeitet keine Zahlungsinformationen.
+
+Preise, Laufzeiten, Verlängerungsbedingungen sowie mögliche Testzeiträume werden Ihnen zum Zeitpunkt des Kaufs angezeigt und unterliegen den Richtlinien des App Store.
+
+---
+
+## 9. Geistiges Eigentum
 
 Alle Inhalte, Designelemente, Texte und Funktionen von DateSense sind Eigentum von DateSense, sofern nicht anders angegeben.
 
@@ -90,7 +101,7 @@ Ohne vorherige schriftliche Genehmigung ist es untersagt, Teile der App zu kopie
 
 ---
 
-## 9. Haftungsbeschränkung
+## 10. Haftungsbeschränkung
 
 Soweit gesetzlich zulässig:
 - wird DateSense „wie besehen“ und „wie verfügbar“ bereitgestellt;
@@ -99,7 +110,7 @@ Soweit gesetzlich zulässig:
 
 ---
 
-## 10. Änderungen dieser Bedingungen
+## 11. Änderungen dieser Bedingungen
 
 Diese Nutzungsbedingungen können von Zeit zu Zeit aktualisiert werden.  
 Aktualisierte Versionen werden an dieser Stelle veröffentlicht.
@@ -108,7 +119,7 @@ Die fortgesetzte Nutzung der App gilt als Zustimmung zu den jeweils aktuellen Be
 
 ---
 
-## 11. Kontakt
+## 12. Kontakt
 
 Bei Fragen zu diesen Nutzungsbedingungen kontaktieren Sie uns bitte unter:
 
