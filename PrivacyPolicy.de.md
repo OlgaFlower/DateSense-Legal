@@ -1,6 +1,6 @@
-# Datenschutzrichtlinie
+# Datenschutzerklärung
 
-**Zuletzt aktualisiert:** 2026-03-13
+**Zuletzt aktualisiert:** 2026-08-22
 
 > **Hinweis:** Diese Version der Datenschutzerklärung ist eine Übersetzung zur Bequemlichkeit der Nutzer.  
 > Im Falle von Abweichungen oder Auslegungsunterschieden hat die englischsprachige Version des Dokuments Vorrang.
@@ -24,16 +24,44 @@ Um den Kontozugang, die Zuverlässigkeit der App, Analysen und die Funktionalit�
 DateSense kann die folgenden Datenkategorien verarbeiten:
 
 - E-Mail-Adresse oder private Relay-E-Mail-Adresse, die über Sign in with Apple bereitgestellt wird;
+- E-Mail-Adresse, die über die Anmeldung mit Google bereitgestellt wird;
 - Authentifizierungsbezogene Daten, die für die Registrierung und Anmeldung erforderlich sind;
 - Diagnosedaten, wie z. B. Absturzberichte;
-- App-Analysedaten, wie z. B. aufgerufene Bildschirme, betätigte Schaltflächen und allgemeine Funktionsnutzung;
+- App-Analysedaten, wie z. B. aufgerufene Bildschirme und allgemeine Funktionsnutzung, und nur dann, wenn Sie Analysen eingeschaltet haben;
 - abonnements- und kaufbezogene Daten, die zur Unterstützung von In-App-Käufen und Abonnements erforderlich sind.
 
 DateSense verarbeitet Ihre privaten Notizen, Selbstreflexionen, Antworten auf Fragebögen oder Beziehungsaufzeichnungen nicht auf externen Servern zu Analyse- oder Profiling-Zwecken.
 
 ---
 
-## 3. Wie wir Daten verwenden
+## 3. Angaben, die Sie über andere Personen eintragen
+
+Mit DateSense können Sie einen Eintrag zu einer Person aus Ihrem Umfeld anlegen und Fragen dazu beantworten, wie Sie sich in deren Nähe fühlen. Ein solcher Eintrag kann einen Namen oder Spitznamen, ein Foto, ein Geburtsdatum sowie Angaben wie Beruf, Stadt oder Lebensgewohnheiten enthalten — zusammen mit Ihren eigenen Antworten zu dieser Beziehung.
+
+Diese Angaben betreffen eine Person, die die App nicht installiert und in nichts eingewilligt hat. Entsprechend gehen wir damit um:
+
+- alles, was Sie über eine andere Person eintragen, wird **lokal auf Ihrem Gerät** gespeichert und nicht auf unsere Server übertragen;
+- es wird niemals verwendet, um diese Person zu identifizieren, zu kontaktieren, zu profilieren oder ihr Werbung anzuzeigen;
+- es wird nicht an andere Nutzer weitergegeben, und kein anderer Nutzer kann Ihre Einträge sehen;
+- es fließt nicht in Analysen oder Absturzberichte ein.
+
+Sie entscheiden, was Sie eintragen, und Sie sind für die Angaben verantwortlich, die Sie über eine andere Person festhalten. Tragen Sie bitte nur das ein, was Sie für Ihre eigene Reflexion benötigen, und verwenden Sie nach Möglichkeit einen Spitznamen statt des vollständigen Namens.
+
+Wenn Sie eine Person löschen, Ihre Daten löschen oder Ihr Konto in der App löschen, werden diese Inhalte und die von Ihnen hinzugefügten Fotos von Ihrem Gerät entfernt.
+
+---
+
+## 4. Analysen und Absturzdiagnose
+
+**Analysen sind ausgeschaltet, bis Sie sie einschalten.** Standardmäßig erhebt die App keine Analysedaten. Sie werden einmal beim ersten Kennenlernen der App gefragt und können Ihre Antwort jederzeit in den Einstellungen ändern. Wenn Sie Analysen ausschalten, endet die Erhebung.
+
+Sind Analysen eingeschaltet, wird erfasst, welche Bildschirme geöffnet und welche Funktionen genutzt wurden — zum Beispiel, dass ein Fragebogen abgeschlossen wurde. Niemals erfasst werden der Inhalt Ihrer Antworten, Namen oder Fotos hinzugefügter Personen oder sonstige von Ihnen eingegebene Angaben.
+
+**Die Absturzdiagnose arbeitet getrennt davon und ist immer aktiv.** Stürzt die App ab, wird ein Bericht gesendet, damit das Problem behoben werden kann. Ein solcher Bericht beschreibt den Fehler selbst sowie das Gerätemodell und die Version des Betriebssystems. Er enthält weder Ihre Notizen noch Ihre Antworten auf Fragebögen oder Angaben zu hinzugefügten Personen.
+
+---
+
+## 5. Wie wir Daten verwenden
 
 Wir verwenden die oben beschriebenen begrenzten Daten ausschließlich, um:
 
@@ -49,7 +77,7 @@ Wir verwenden Ihre privaten In-App-Inhalte nicht für Marketingzwecke.
 
 ---
 
-## 4. Speicherung und Verarbeitung
+## 6. Speicherung und Verarbeitung
 
 Ihre privaten App-Inhalte, einschließlich Notizen, Reflexionen, Antworten und beziehungsbezogenen Einträgen, werden lokal auf Ihrem Gerät gespeichert.
 
@@ -57,7 +85,7 @@ Begrenzte Konto-, Analyse-, Diagnose- und abonnementsbezogene Daten können von 
 
 ---
 
-## 5. Dienste Dritter
+## 7. Dienste Dritter
 
 DateSense kann vertrauenswürdige Drittanbieter für Zwecke einsetzen wie:
 
@@ -70,22 +98,25 @@ Diese Dienste verarbeiten nur die Daten, die zur Erfüllung ihrer Funktion erfor
 
 ---
 
-## 6. Datenkontrolle
+## 8. Datenkontrolle
 
 Sie behalten die Kontrolle über Ihre Daten.
 
-Innerhalb der App haben Sie möglicherweise die Möglichkeit:
+Innerhalb der App haben Sie die Möglichkeit:
 
 - lokal gespeicherte App-Daten auf Ihrem Gerät zu löschen;
 - Ihr Konto zu löschen;
 - sich von Ihrem Konto abzumelden;
-- den Zugriff mit einem PIN-Code zu schützen.
+- den Zugriff mit einem PIN-Code zu schützen;
+- App-Analysen ein- oder auszuschalten.
+
+Wenn Sie Ihr Konto löschen, werden Ihre lokal gespeicherten Inhalte einschließlich der hinzugefügten Personen und ihrer Fotos von Ihrem Gerät entfernt.
 
 Wenn Sie die App löschen, werden lokal gespeicherte App-Inhalte von Ihrem Gerät entfernt, Ihr Konto oder serverseitig gespeicherte Kontozugangsdaten werden dadurch jedoch nicht automatisch gelöscht.
 
 ---
 
-## 7. Datenschutz für Kinder
+## 9. Datenschutz für Kinder
 
 DateSense ist nicht für Kinder unter 13 Jahren bestimmt.
 
@@ -95,7 +126,7 @@ Wenn Sie der Ansicht sind, dass ein Kind unter 13 Jahren personenbezogene Inform
 
 ---
 
-## 8. Änderungen an dieser Erklärung
+## 10. Änderungen an dieser Erklärung
 
 Diese Datenschutzerklärung kann von Zeit zu Zeit aktualisiert werden.
 
@@ -103,9 +134,8 @@ Diese Datenschutzerklärung kann von Zeit zu Zeit aktualisiert werden.
 
 ---
 
-## 9. Kontakt
+## 11. Kontakt
 
 Wenn Sie Fragen zu dieser Datenschutzerklärung haben, kontaktieren Sie uns bitte:
 
 E-Mail: support@datesense.com.de
-
