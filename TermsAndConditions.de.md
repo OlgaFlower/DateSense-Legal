@@ -1,6 +1,6 @@
 # Nutzungsbedingungen
 
-**Zuletzt aktualisiert:** 2026-08-22
+**Zuletzt aktualisiert:** 2026-08-25
 
 > **Hinweis:** Diese Version der Nutzungsbedingungen ist eine Übersetzung zur Bequemlichkeit der Nutzer.  
 > Im Falle von Abweichungen oder Auslegungsunterschieden hat die englischsprachige Version des Dokuments Vorrang.
@@ -9,9 +9,9 @@
 
 ## 1. Einleitung
 
-Diese Nutzungsbedingungen regeln Ihre Nutzung der App DateSense und der zugehörigen Dienste.
+Diese Nutzungsbedingungen regeln Ihre Nutzung der App SeeSi und der zugehörigen Dienste.
 
-Indem Sie DateSense herunterladen, darauf zugreifen oder die App nutzen, stimmen Sie diesen Nutzungsbedingungen zu.
+Indem Sie SeeSi herunterladen, darauf zugreifen oder die App nutzen, stimmen Sie diesen Nutzungsbedingungen zu.
 
 Wenn Sie diesen Nutzungsbedingungen nicht zustimmen, nutzen Sie die App bitte nicht.
 
@@ -19,7 +19,7 @@ Wenn Sie diesen Nutzungsbedingungen nicht zustimmen, nutzen Sie die App bitte ni
 
 ## 2. Nutzungsberechtigung
 
-DateSense ist nicht für Kinder unter 13 Jahren bestimmt.
+SeeSi ist nicht für Kinder unter 13 Jahren bestimmt.
 
 Mit der Nutzung der App versichern Sie, dass Sie mindestens 13 Jahre alt und nach dem für Sie geltenden Recht zur Nutzung der App berechtigt sind.
 
@@ -27,7 +27,7 @@ Mit der Nutzung der App versichern Sie, dass Sie mindestens 13 Jahre alt und nac
 
 ## 3. Konten
 
-Für den Zugang zu DateSense und die Nutzung der App ist ein Konto erforderlich.
+Für den Zugang zu SeeSi und die Nutzung der App ist ein Konto erforderlich.
 
 Sie müssen sich registrieren oder anmelden, bevor Sie die App nutzen.
 
@@ -37,13 +37,13 @@ Sie sind dafür verantwortlich, Ihre Zugangsdaten vertraulich zu behandeln, und 
 
 ## 4. Zweck der App
 
-DateSense wird als Werkzeug zur Selbstreflexion und für Einsichten über Beziehungen bereitgestellt.
+SeeSi wird als Werkzeug zur Selbstreflexion und für Einsichten über Beziehungen bereitgestellt.
 
 Die App soll Nutzerinnen und Nutzern helfen, über Interaktionsmuster, persönliche Eindrücke und Erfahrungen in Beziehungen nachzudenken.
 
-DateSense bietet keine medizinische, psychologische, psychiatrische, therapeutische, rechtliche oder Krisenberatung.
+SeeSi bietet keine medizinische, psychologische, psychiatrische, therapeutische, rechtliche oder Krisenberatung.
 
-DateSense stellt keine Diagnose zu einer Person oder einer Beziehung.
+SeeSi stellt keine Diagnose zu einer Person oder einer Beziehung.
 
 Alle in der App dargestellten Werte, Bezeichnungen, Zusammenfassungen oder Einsichten dienen ausschließlich der Information und der persönlichen Reflexion.
 
@@ -61,7 +61,7 @@ Sie sind dafür verantwortlich, wie Sie die von der App erzeugten Einsichten aus
 
 ## 6. Angaben über andere Personen
 
-Mit DateSense können Sie Angaben über Personen aus Ihrem Umfeld festhalten — darunter einen Namen oder Spitznamen, ein Foto und Ihre eigenen Antworten zu dieser Beziehung. Diese Personen haben die App nicht installiert und in nichts eingewilligt.
+Mit SeeSi können Sie Angaben über Personen aus Ihrem Umfeld festhalten — darunter einen Namen oder Spitznamen, ein Foto und Ihre eigenen Antworten zu dieser Beziehung. Diese Personen haben die App nicht installiert und in nichts eingewilligt.
 
 Sie sind allein dafür verantwortlich, was Sie über eine andere Person festhalten, und für die Einhaltung der für Sie geltenden Gesetze. Halten Sie nur fest, was Sie für Ihre eigene Reflexion benötigen, und verwenden Sie nach Möglichkeit einen Spitznamen statt des vollständigen Namens.
 
@@ -71,7 +71,7 @@ Diese Inhalte bleiben auf Ihrem Gerät. Sie werden nicht auf unsere Server über
 
 ## 7. Abonnements und Käufe
 
-DateSense kann automatisch verlängerbare Abonnements und andere In-App-Käufe anbieten.
+SeeSi kann automatisch verlängerbare Abonnements und andere In-App-Käufe anbieten.
 
 Die Zahlung wird bei Bestätigung des Kaufs über Ihr Apple-ID-Konto abgebucht.
 
@@ -85,7 +85,7 @@ Preise sowie Abrechnungs- und Verlängerungsbedingungen, die in der App oder auf
 
 ## 8. Kostenloser Plan und Ende eines Abonnements
 
-DateSense lässt sich ohne Abonnement nutzen. Der kostenlose Plan umfasst **bis zu drei Personen**.
+SeeSi lässt sich ohne Abonnement nutzen. Der kostenlose Plan umfasst **bis zu drei Personen**.
 
 Ein Abonnement hebt diese Grenze auf, solange es aktiv ist.
 
@@ -102,7 +102,7 @@ Wenn ein Abonnement endet oder nicht verlängert wird und Sie mehr als drei Pers
 
 Sie verpflichten sich,
 
-- DateSense nicht für rechtswidrige Zwecke zu nutzen;
+- SeeSi nicht für rechtswidrige Zwecke zu nutzen;
 - die App nicht zu missbrauchen und nicht zu versuchen, ihren Betrieb zu stören;
 - nicht zu versuchen, unbefugten Zugang zu Konten, Systemen oder Daten zu erlangen;
 - die App nicht zu kopieren, zurückzuentwickeln, zu verändern oder auszunutzen, außer soweit dies nach geltendem Recht zulässig ist;
@@ -112,7 +112,7 @@ Sie verpflichten sich,
 
 ## 10. Geistiges Eigentum
 
-DateSense sowie seine Inhalte, Funktionen, Marke, Gestaltung und Software stehen im Eigentum von DateSense oder sind an DateSense lizenziert und durch das geltende Recht zum Schutz geistigen Eigentums geschützt.
+SeeSi sowie seine Inhalte, Funktionen, Marke, Gestaltung und Software stehen im Eigentum von SeeSi oder sind an SeeSi lizenziert und durch das geltende Recht zum Schutz geistigen Eigentums geschützt.
 
 Ihnen wird eine beschränkte, nicht ausschließliche, nicht übertragbare und widerrufliche Lizenz zur Nutzung der App für persönliche, nicht kommerzielle Zwecke gemäß diesen Nutzungsbedingungen eingeräumt.
 
@@ -120,9 +120,9 @@ Ihnen wird eine beschränkte, nicht ausschließliche, nicht übertragbare und wi
 
 ## 11. Haftungsausschluss
 
-DateSense wird „wie besehen“ und „wie verfügbar“ bereitgestellt.
+SeeSi wird „wie besehen“ und „wie verfügbar“ bereitgestellt.
 
-Soweit gesetzlich zulässig, übernimmt DateSense keine ausdrücklichen oder stillschweigenden Gewährleistungen hinsichtlich der Verfügbarkeit, Richtigkeit, Zuverlässigkeit oder Eignung der App oder ihrer Ergebnisse.
+Soweit gesetzlich zulässig, übernimmt SeeSi keine ausdrücklichen oder stillschweigenden Gewährleistungen hinsichtlich der Verfügbarkeit, Richtigkeit, Zuverlässigkeit oder Eignung der App oder ihrer Ergebnisse.
 
 Die App kann auf Grundlage der von Ihnen eingegebenen Angaben Zusammenfassungen, Werte oder Deutungen erzeugen. Diese Ergebnisse können unvollständig, subjektiv oder unzutreffend sein.
 
@@ -130,7 +130,7 @@ Die App kann auf Grundlage der von Ihnen eingegebenen Angaben Zusammenfassungen,
 
 ## 12. Haftungsbeschränkung
 
-Soweit gesetzlich zulässig, haften DateSense und sein Betreiber nicht für indirekte, zufällige, besondere, Folge- oder Strafschäden sowie nicht für den Verlust von Daten, Gewinnen, Geschäftswert oder Geschäftschancen, die sich aus der Nutzung der App ergeben oder damit zusammenhängen.
+Soweit gesetzlich zulässig, haften SeeSi und sein Betreiber nicht für indirekte, zufällige, besondere, Folge- oder Strafschäden sowie nicht für den Verlust von Daten, Gewinnen, Geschäftswert oder Geschäftschancen, die sich aus der Nutzung der App ergeben oder damit zusammenhängen.
 
 Die Nutzung der App und das Vertrauen auf Inhalte oder von der App erzeugte Ergebnisse erfolgen auf eigenes Risiko.
 
@@ -138,7 +138,7 @@ Die Nutzung der App und das Vertrauen auf Inhalte oder von der App erzeugte Erge
 
 ## 13. Beendigung
 
-Wir können den Zugang zu DateSense aussetzen oder beenden, wenn Sie gegen diese Nutzungsbedingungen verstoßen oder die App missbrauchen.
+Wir können den Zugang zu SeeSi aussetzen oder beenden, wenn Sie gegen diese Nutzungsbedingungen verstoßen oder die App missbrauchen.
 
 Sie können die Nutzung der App jederzeit beenden.
 
@@ -150,13 +150,13 @@ Das Löschen der App löscht Ihr Konto nicht automatisch, sofern Sie nicht zusä
 
 Wir können diese Nutzungsbedingungen von Zeit zu Zeit aktualisieren.
 
-Änderungen werden an dieser Stelle veröffentlicht. Wenn Sie DateSense nach einer Aktualisierung weiterhin nutzen, gilt dies als Zustimmung zu den überarbeiteten Nutzungsbedingungen.
+Änderungen werden an dieser Stelle veröffentlicht. Wenn Sie SeeSi nach einer Aktualisierung weiterhin nutzen, gilt dies als Zustimmung zu den überarbeiteten Nutzungsbedingungen.
 
 ---
 
 ## 15. Geltende Bedingungen bei Nutzung über den App Store
 
-Wenn Sie über den Apple App Store auf DateSense zugreifen, kann Ihre Nutzung der App zusätzlich den einschlägigen Bedingungen von Apple unterliegen, einschließlich der Standard-Lizenzvereinbarung für Endnutzer (EULA), soweit anwendbar.
+Wenn Sie über den Apple App Store auf SeeSi zugreifen, kann Ihre Nutzung der App zusätzlich den einschlägigen Bedingungen von Apple unterliegen, einschließlich der Standard-Lizenzvereinbarung für Endnutzer (EULA), soweit anwendbar.
 
 ---
 
@@ -164,4 +164,4 @@ Wenn Sie über den Apple App Store auf DateSense zugreifen, kann Ihre Nutzung de
 
 Wenn Sie Fragen zu diesen Nutzungsbedingungen haben, kontaktieren Sie uns bitte:
 
-E-Mail: support@datesense.com.de
+E-Mail: support@seesi.app
