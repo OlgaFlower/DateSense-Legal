@@ -1,24 +1,24 @@
 # Privacy Policy
 
-**Last updated:** 2026-08-22
+**Last updated:** 2026-08-25
 
 ---
 
 ## 1. Introduction
 
-DateSense respects your privacy.
+SeeSi respects your privacy.
 
-This Privacy Policy explains what data DateSense processes when you use the app.
+This Privacy Policy explains what data SeeSi processes when you use the app.
 
-DateSense does not transmit your private self-reflection content, personal notes, answers, or relationship entries to our servers for storage or analysis as part of app analytics or profiling. This content is stored locally on your device.
+SeeSi does not transmit your private self-reflection content, personal notes, answers, or relationship entries to our servers for storage or analysis as part of app analytics or profiling. This content is stored locally on your device.
 
-To provide account access, app reliability, analytics, and subscription functionality, DateSense does process limited account, technical, and usage-related data as described below.
+To provide account access, app reliability, analytics, and subscription functionality, SeeSi does process limited account, technical, and usage-related data as described below.
 
 ---
 
 ## 2. Data We Process
 
-DateSense may process the following categories of data:
+SeeSi may process the following categories of data:
 
 - email address or private relay email address provided through Sign in with Apple;
 - email address provided through Sign in with Google;
@@ -27,13 +27,13 @@ DateSense may process the following categories of data:
 - app analytics data, such as screens viewed and general feature usage, and only if you have turned analytics on;
 - subscription and purchase-related data required to support in-app purchases and subscriptions.
 
-DateSense does not process your private notes, self-reflections, questionnaire answers, or relationship records on external servers for analytics or profiling.
+SeeSi does not process your private notes, self-reflections, questionnaire answers, or relationship records on external servers for analytics or profiling.
 
 ---
 
 ## 3. Information You Enter About Other People
 
-DateSense lets you create an entry for a person in your life and answer questions about how you feel around them. An entry may include a name or nickname, a photo, a date of birth, and details such as occupation, city, or lifestyle, together with your own answers about that relationship.
+SeeSi lets you create an entry for a person in your life and answer questions about how you feel around them. An entry may include a name or nickname, a photo, a date of birth, and details such as occupation, city, or lifestyle, together with your own answers about that relationship.
 
 This information is about someone who has not installed the app and has not agreed to anything. We treat it accordingly:
 
@@ -84,7 +84,7 @@ Limited account, analytics, diagnostic, and subscription-related data may be pro
 
 ## 7. Third-Party Services
 
-DateSense may use third-party service providers for purposes such as:
+SeeSi may use third-party service providers for purposes such as:
 
 - authentication;
 - crash reporting;
@@ -115,7 +115,7 @@ Deleting the app removes locally stored app content from your device, but it doe
 
 ## 9. Children's Privacy
 
-DateSense is not intended for children under the age of 13.
+SeeSi is not intended for children under the age of 13.
 
 We do not knowingly collect personal information from children under the age of 13.
 
@@ -135,4 +135,4 @@ Any changes will be published at this location. Continued use of the app after a
 
 If you have questions about this Privacy Policy, please contact:
 
-Email: support@datesense.com.de
+Email: support@seesi.app
