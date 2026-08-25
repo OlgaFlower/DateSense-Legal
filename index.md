@@ -9,3 +9,6 @@
 - [English](./TermsAndConditions.en.md)
 - [Українська](./TermsAndConditions.uk.md)
 - [Deutsch](./TermsAndConditions.de.md)
+
+## User Privacy Choices
+- [English](./UserPrivacyChoices.md)
