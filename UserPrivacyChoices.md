@@ -1,8 +1,8 @@
 # User Privacy Choices
 
-_Last updated: 2026-08-22_
+_Last updated: 2026-08-25_
 
-DateSense provides in-app controls that let you manage your data, what is shared, and who can open the app.
+SeeSi provides in-app controls that let you manage your data, what is shared, and who can open the app.
 
 ## In-app privacy controls
 
@@ -59,7 +59,7 @@ Open **Settings** in the app to find these options.
 **Menu path:** Settings → Account → **Delete account**
 
 **What this does**
-- Permanently deletes your DateSense account and account access data stored on our servers.
+- Permanently deletes your SeeSi account and account access data stored on our servers.
 - Removes locally stored app data on this device: your profile, the people you added, their photos, your answers, and calculated results.
 - Removes the App Lock PIN from this device.
 - Signs you out.
@@ -75,7 +75,7 @@ Open **Settings** in the app to find these options.
 
 **Menu path:** Settings → Account → **Log out**
 
-Logging out signs you out of DateSense on this device. It does not delete your account or your data.
+Logging out signs you out of SeeSi on this device. It does not delete your account or your data.
 
 ---
 
@@ -83,4 +83,4 @@ Logging out signs you out of DateSense on this device. It does not delete your a
 
 If you need help with privacy or account deletion, contact us:
 
-**Email:** support@datesense.com.de
+**Email:** support@seesi.app
