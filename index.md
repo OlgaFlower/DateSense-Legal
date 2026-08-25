@@ -1,4 +1,4 @@
-# DateSense Legal Documents
+# SeeSi Legal Documents
 
 ## Privacy Policy
 - [English](./PrivacyPolicy.en.md)
