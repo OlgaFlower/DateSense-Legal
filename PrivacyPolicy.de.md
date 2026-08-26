@@ -57,6 +57,8 @@ Wenn Sie eine Person löschen, Ihre Daten löschen oder Ihr Konto in der App lö
 
 Sind Analysen eingeschaltet, wird erfasst, welche Bildschirme geöffnet und welche Funktionen genutzt wurden — zum Beispiel, dass ein Fragebogen abgeschlossen wurde. Niemals erfasst werden der Inhalt Ihrer Antworten, Namen oder Fotos hinzugefügter Personen oder sonstige von Ihnen eingegebene Angaben.
 
+Analysen erfassen außerdem eine ungefähre Region, die aus Ihrer IP-Adresse abgeleitet wird, sowie eine Kennung der App-Installation auf diesem Gerät. Die Region ist ein Land oder Stadtgebiet und niemals ein genauer Standort; beides wird weder mit Ihrem Namen noch mit Ihrem Konto verknüpft.
+
 **Die Absturzdiagnose arbeitet getrennt davon und ist immer aktiv.** Stürzt die App ab, wird ein Bericht gesendet, damit das Problem behoben werden kann. Ein solcher Bericht beschreibt den Fehler selbst sowie das Gerätemodell und die Version des Betriebssystems. Er enthält weder Ihre Notizen noch Ihre Antworten auf Fragebögen oder Angaben zu hinzugefügten Personen.
 
 ---
