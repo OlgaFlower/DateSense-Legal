@@ -1,6 +1,6 @@
 # Datenschutzerklärung
 
-**Zuletzt aktualisiert:** 2026-08-22
+**Zuletzt aktualisiert:** 2026-08-25
 
 > **Hinweis:** Diese Version der Datenschutzerklärung ist eine Übersetzung zur Bequemlichkeit der Nutzer.  
 > Im Falle von Abweichungen oder Auslegungsunterschieden hat die englischsprachige Version des Dokuments Vorrang.
@@ -9,19 +9,19 @@
 
 ## 1. Einleitung
 
-DateSense respektiert Ihre Privatsphäre.
+SeeSi respektiert Ihre Privatsphäre.
 
-Diese Datenschutzerklärung erläutert, welche Daten DateSense verarbeitet, wenn Sie die App nutzen.
+Diese Datenschutzerklärung erläutert, welche Daten SeeSi verarbeitet, wenn Sie die App nutzen.
 
-DateSense übermittelt Ihre privaten Inhalte zur Selbstreflexion, persönlichen Notizen, Antworten oder Beziehungseinträge nicht an unsere Server zur Speicherung oder Analyse im Rahmen von App-Analysen oder Profiling. Diese Inhalte werden lokal auf Ihrem Gerät gespeichert.
+SeeSi übermittelt Ihre privaten Inhalte zur Selbstreflexion, persönlichen Notizen, Antworten oder Beziehungseinträge nicht an unsere Server zur Speicherung oder Analyse im Rahmen von App-Analysen oder Profiling. Diese Inhalte werden lokal auf Ihrem Gerät gespeichert.
 
-Um den Kontozugang, die Zuverlässigkeit der App, Analysen und die Funktionalität von Abonnements bereitzustellen, verarbeitet DateSense jedoch in begrenztem Umfang Konto-, technische und nutzungsbezogene Daten, wie unten beschrieben.
+Um den Kontozugang, die Zuverlässigkeit der App, Analysen und die Funktionalität von Abonnements bereitzustellen, verarbeitet SeeSi jedoch in begrenztem Umfang Konto-, technische und nutzungsbezogene Daten, wie unten beschrieben.
 
 ---
 
 ## 2. Welche Daten wir verarbeiten
 
-DateSense kann die folgenden Datenkategorien verarbeiten:
+SeeSi kann die folgenden Datenkategorien verarbeiten:
 
 - E-Mail-Adresse oder private Relay-E-Mail-Adresse, die über Sign in with Apple bereitgestellt wird;
 - E-Mail-Adresse, die über die Anmeldung mit Google bereitgestellt wird;
@@ -30,13 +30,13 @@ DateSense kann die folgenden Datenkategorien verarbeiten:
 - App-Analysedaten, wie z. B. aufgerufene Bildschirme und allgemeine Funktionsnutzung, und nur dann, wenn Sie Analysen eingeschaltet haben;
 - abonnements- und kaufbezogene Daten, die zur Unterstützung von In-App-Käufen und Abonnements erforderlich sind.
 
-DateSense verarbeitet Ihre privaten Notizen, Selbstreflexionen, Antworten auf Fragebögen oder Beziehungsaufzeichnungen nicht auf externen Servern zu Analyse- oder Profiling-Zwecken.
+SeeSi verarbeitet Ihre privaten Notizen, Selbstreflexionen, Antworten auf Fragebögen oder Beziehungsaufzeichnungen nicht auf externen Servern zu Analyse- oder Profiling-Zwecken.
 
 ---
 
 ## 3. Angaben, die Sie über andere Personen eintragen
 
-Mit DateSense können Sie einen Eintrag zu einer Person aus Ihrem Umfeld anlegen und Fragen dazu beantworten, wie Sie sich in deren Nähe fühlen. Ein solcher Eintrag kann einen Namen oder Spitznamen, ein Foto, ein Geburtsdatum sowie Angaben wie Beruf, Stadt oder Lebensgewohnheiten enthalten — zusammen mit Ihren eigenen Antworten zu dieser Beziehung.
+Mit SeeSi können Sie einen Eintrag zu einer Person aus Ihrem Umfeld anlegen und Fragen dazu beantworten, wie Sie sich in deren Nähe fühlen. Ein solcher Eintrag kann einen Namen oder Spitznamen, ein Foto, ein Geburtsdatum sowie Angaben wie Beruf, Stadt oder Lebensgewohnheiten enthalten — zusammen mit Ihren eigenen Antworten zu dieser Beziehung.
 
 Diese Angaben betreffen eine Person, die die App nicht installiert und in nichts eingewilligt hat. Entsprechend gehen wir damit um:
 
@@ -87,7 +87,7 @@ Begrenzte Konto-, Analyse-, Diagnose- und abonnementsbezogene Daten können von 
 
 ## 7. Dienste Dritter
 
-DateSense kann vertrauenswürdige Drittanbieter für Zwecke einsetzen wie:
+SeeSi kann vertrauenswürdige Drittanbieter für Zwecke einsetzen wie:
 
 - Authentifizierung;
 - Absturzberichte;
@@ -118,7 +118,7 @@ Wenn Sie die App löschen, werden lokal gespeicherte App-Inhalte von Ihrem Gerä
 
 ## 9. Datenschutz für Kinder
 
-DateSense ist nicht für Kinder unter 13 Jahren bestimmt.
+SeeSi ist nicht für Kinder unter 13 Jahren bestimmt.
 
 Wir erheben wissentlich keine personenbezogenen Daten von Kindern unter 13 Jahren.
 
@@ -138,4 +138,4 @@ Diese Datenschutzerklärung kann von Zeit zu Zeit aktualisiert werden.
 
 Wenn Sie Fragen zu dieser Datenschutzerklärung haben, kontaktieren Sie uns bitte:
 
-E-Mail: support@datesense.com.de
+E-Mail: support@seesi.app
