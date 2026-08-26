@@ -1,141 +1,142 @@
-# Datenschutzerklärung
+# Політика конфіденційності
 
-**Zuletzt aktualisiert:** 2026-08-25
+**Останнє оновлення:** 2026-08-25
 
-> **Hinweis:** Diese Version der Datenschutzerklärung ist eine Übersetzung zur Bequemlichkeit der Nutzer.  
-> Im Falle von Abweichungen oder Auslegungsunterschieden hat die englischsprachige Version des Dokuments Vorrang.
-
----
-
-## 1. Einleitung
-
-SeeSi respektiert Ihre Privatsphäre.
-
-Diese Datenschutzerklärung erläutert, welche Daten SeeSi verarbeitet, wenn Sie die App nutzen.
-
-SeeSi übermittelt Ihre privaten Inhalte zur Selbstreflexion, persönlichen Notizen, Antworten oder Beziehungseinträge nicht an unsere Server zur Speicherung oder Analyse im Rahmen von App-Analysen oder Profiling. Diese Inhalte werden lokal auf Ihrem Gerät gespeichert.
-
-Um den Kontozugang, die Zuverlässigkeit der App, Analysen und die Funktionalität von Abonnements bereitzustellen, verarbeitet SeeSi jedoch in begrenztem Umfang Konto-, technische und nutzungsbezogene Daten, wie unten beschrieben.
+> **Примітка:** Ця версія Політики конфіденційності є перекладом для зручності користувачів.  
+> У разі будь-яких розбіжностей або тлумачень переважну силу має англомовна версія документа.
 
 ---
 
-## 2. Welche Daten wir verarbeiten
+## 1. Вступ
 
-SeeSi kann die folgenden Datenkategorien verarbeiten:
+SeeSi поважає вашу конфіденційність.  
+Ця Політика конфіденційності пояснює, як обробляються ваші дані під час використання застосунку SeeSi.
 
-- E-Mail-Adresse oder private Relay-E-Mail-Adresse, die über Sign in with Apple bereitgestellt wird;
-- E-Mail-Adresse, die über die Anmeldung mit Google bereitgestellt wird;
-- Authentifizierungsbezogene Daten, die für die Registrierung und Anmeldung erforderlich sind;
-- Diagnosedaten, wie z. B. Absturzberichte;
-- App-Analysedaten, wie z. B. aufgerufene Bildschirme und allgemeine Funktionsnutzung, und nur dann, wenn Sie Analysen eingeschaltet haben;
-- abonnements- und kaufbezogene Daten, die zur Unterstützung von In-App-Käufen und Abonnements erforderlich sind.
+SeeSi не передає на наші сервери ваш особистий контент для саморефлексії, особисті нотатки, відповіді чи записи про взаємини для зберігання або аналізу в межах аналітики застосунку чи профілювання. Цей контент зберігається локально на вашому пристрої.
 
-SeeSi verarbeitet Ihre privaten Notizen, Selbstreflexionen, Antworten auf Fragebögen oder Beziehungsaufzeichnungen nicht auf externen Servern zu Analyse- oder Profiling-Zwecken.
+Для забезпечення доступу до облікового запису, стабільної роботи застосунку, аналітики та функціональності підписок SeeSi обробляє обмежені облікові, технічні та пов'язані з використанням дані, як описано нижче.
 
 ---
 
-## 3. Angaben, die Sie über andere Personen eintragen
+## 2. Дані, які ми обробляємо
 
-Mit SeeSi können Sie einen Eintrag zu einer Person aus Ihrem Umfeld anlegen und Fragen dazu beantworten, wie Sie sich in deren Nähe fühlen. Ein solcher Eintrag kann einen Namen oder Spitznamen, ein Foto, ein Geburtsdatum sowie Angaben wie Beruf, Stadt oder Lebensgewohnheiten enthalten — zusammen mit Ihren eigenen Antworten zu dieser Beziehung.
+SeeSi може обробляти такі категорії даних:
 
-Diese Angaben betreffen eine Person, die die App nicht installiert und in nichts eingewilligt hat. Entsprechend gehen wir damit um:
+- адресу електронної пошти або приватну relay-адресу електронної пошти, надану через Sign in with Apple;
+- адресу електронної пошти, надану через вхід через Google;
+- дані, пов'язані з автентифікацією, необхідні для реєстрації облікового запису та входу;
+- діагностичні дані, зокрема звіти про збої;
+- аналітичні дані застосунку, такі як переглянуті екрани та загальне використання функцій, і лише якщо ви увімкнули аналітику;
+- дані, пов'язані з підписками та покупками, необхідні для підтримки вбудованих покупок і підписок.
 
-- alles, was Sie über eine andere Person eintragen, wird **lokal auf Ihrem Gerät** gespeichert und nicht auf unsere Server übertragen;
-- es wird niemals verwendet, um diese Person zu identifizieren, zu kontaktieren, zu profilieren oder ihr Werbung anzuzeigen;
-- es wird nicht an andere Nutzer weitergegeben, und kein anderer Nutzer kann Ihre Einträge sehen;
-- es fließt nicht in Analysen oder Absturzberichte ein.
-
-Sie entscheiden, was Sie eintragen, und Sie sind für die Angaben verantwortlich, die Sie über eine andere Person festhalten. Tragen Sie bitte nur das ein, was Sie für Ihre eigene Reflexion benötigen, und verwenden Sie nach Möglichkeit einen Spitznamen statt des vollständigen Namens.
-
-Wenn Sie eine Person löschen, Ihre Daten löschen oder Ihr Konto in der App löschen, werden diese Inhalte und die von Ihnen hinzugefügten Fotos von Ihrem Gerät entfernt.
+SeeSi не обробляє ваші приватні нотатки, матеріали для саморефлексії, відповіді на анкети чи записи про взаємини на зовнішніх серверах для аналітики або профілювання.
 
 ---
 
-## 4. Analysen und Absturzdiagnose
+## 3. Інформація, яку ви вносите про інших людей
 
-**Analysen sind ausgeschaltet, bis Sie sie einschalten.** Standardmäßig erhebt die App keine Analysedaten. Sie werden einmal beim ersten Kennenlernen der App gefragt und können Ihre Antwort jederzeit in den Einstellungen ändern. Wenn Sie Analysen ausschalten, endet die Erhebung.
+SeeSi дозволяє створити запис про людину з вашого оточення та відповісти на питання про те, як ви почуваєтеся поруч із нею. Такий запис може містити ім'я або прізвисько, фото, дату народження, а також відомості на кшталт професії, міста чи способу життя — разом із вашими власними відповідями про ці взаємини.
 
-Sind Analysen eingeschaltet, wird erfasst, welche Bildschirme geöffnet und welche Funktionen genutzt wurden — zum Beispiel, dass ein Fragebogen abgeschlossen wurde. Niemals erfasst werden der Inhalt Ihrer Antworten, Namen oder Fotos hinzugefügter Personen oder sonstige von Ihnen eingegebene Angaben.
+Ця інформація стосується людини, яка не встановлювала застосунок і не давала жодної згоди. Тому ми поводимося з нею відповідно:
 
-**Die Absturzdiagnose arbeitet getrennt davon und ist immer aktiv.** Stürzt die App ab, wird ein Bericht gesendet, damit das Problem behoben werden kann. Ein solcher Bericht beschreibt den Fehler selbst sowie das Gerätemodell und die Version des Betriebssystems. Er enthält weder Ihre Notizen noch Ihre Antworten auf Fragebögen oder Angaben zu hinzugefügten Personen.
+- усе, що ви вносите про іншу людину, зберігається **локально на вашому пристрої** і не вивантажується на наші сервери;
+- це ніколи не використовується для ідентифікації цієї людини, зв'язку з нею, її профілювання чи реклами;
+- це не передається іншим користувачам, і жоден інший користувач не бачить ваших записів;
+- це не потрапляє в аналітику й у звіти про збої.
 
----
+Ви вирішуєте, що вносити, і ви відповідаєте за інформацію, яку записуєте про іншу людину. Вносьте лише те, що потрібно вам для власної рефлексії, і за можливості використовуйте прізвисько замість повного імені.
 
-## 5. Wie wir Daten verwenden
-
-Wir verwenden die oben beschriebenen begrenzten Daten ausschließlich, um:
-
-- Ihr Konto zu erstellen und zu verwalten;
-- eine sichere Anmeldung zu ermöglichen;
-- die Stabilität der App zu gewährleisten und Abstürze zu beheben;
-- die allgemeine Nutzung der App zu verstehen und Funktionen zu verbessern;
-- Abonnements und kaufbezogene Funktionen zu unterstützen.
-
-Wir verkaufen Ihre personenbezogenen Daten nicht.  
-Wir verwenden Ihre Daten nicht für Werbung Dritter.  
-Wir verwenden Ihre privaten In-App-Inhalte nicht für Marketingzwecke.
+Коли ви видаляєте людину, видаляєте свої дані або видаляєте обліковий запис у застосунку, цей контент і додані вами фото зникають із пристрою.
 
 ---
 
-## 6. Speicherung und Verarbeitung
+## 4. Аналітика та діагностика збоїв
 
-Ihre privaten App-Inhalte, einschließlich Notizen, Reflexionen, Antworten und beziehungsbezogenen Einträgen, werden lokal auf Ihrem Gerät gespeichert.
+**Аналітика вимкнена, доки ви її не увімкнете.** За замовчуванням застосунок не збирає аналітику. Питання ставиться один раз під час знайомства із застосунком, і ви можете будь-коли змінити відповідь у Налаштуваннях. Якщо вимкнути аналітику, збір припиняється.
 
-Begrenzte Konto-, Analyse-, Diagnose- und abonnementsbezogene Daten können von vertrauenswürdigen Dienstleistern ausschließlich zur Unterstützung der App-Funktionalität verarbeitet werden.
+Коли аналітика увімкнена, вона фіксує, які екрани відкривалися і які функції використовувалися — наприклад, що анкету завершено. Вона ніколи не містить змісту ваших відповідей, імен чи фото доданих людей або будь-чого іншого, що ви ввели.
 
----
-
-## 7. Dienste Dritter
-
-SeeSi kann vertrauenswürdige Drittanbieter für Zwecke einsetzen wie:
-
-- Authentifizierung;
-- Absturzberichte;
-- App-Analysen;
-- Unterstützung von Abonnements und Käufen.
-
-Diese Dienste verarbeiten nur die Daten, die zur Erfüllung ihrer Funktion erforderlich sind.
+**Діагностика збоїв працює окремо і завжди.** Якщо застосунок аварійно завершується, надсилається звіт, щоб проблему можна було виправити. Такий звіт описує саму помилку, а також модель пристрою та версію операційної системи. Він не містить ваших нотаток, відповідей на анкети чи інформації про доданих людей.
 
 ---
 
-## 8. Datenkontrolle
+## 5. Як ми використовуємо дані
 
-Sie behalten die Kontrolle über Ihre Daten.
+Ми використовуємо описані вище обмежені дані виключно для того, щоб:
 
-Innerhalb der App haben Sie die Möglichkeit:
+- створювати та керувати вашим обліковим записом;
+- забезпечувати безпечний вхід;
+- підтримувати стабільність роботи застосунку та виправляти збої;
+- розуміти загальне використання застосунку та покращувати функції;
+- підтримувати функціональність підписок і покупок.
 
-- lokal gespeicherte App-Daten auf Ihrem Gerät zu löschen;
-- Ihr Konto zu löschen;
-- sich von Ihrem Konto abzumelden;
-- den Zugriff mit einem PIN-Code zu schützen;
-- App-Analysen ein- oder auszuschalten.
-
-Wenn Sie Ihr Konto löschen, werden Ihre lokal gespeicherten Inhalte einschließlich der hinzugefügten Personen und ihrer Fotos von Ihrem Gerät entfernt.
-
-Wenn Sie die App löschen, werden lokal gespeicherte App-Inhalte von Ihrem Gerät entfernt, Ihr Konto oder serverseitig gespeicherte Kontozugangsdaten werden dadurch jedoch nicht automatisch gelöscht.
+Ми не продаємо ваші персональні дані.  
+Ми не використовуємо ваші дані для сторонньої реклами.  
+Ми не використовуємо ваш приватний контент у застосунку для маркетингових цілей.
 
 ---
 
-## 9. Datenschutz für Kinder
+## 6. Зберігання та обробка
 
-SeeSi ist nicht für Kinder unter 13 Jahren bestimmt.
+Ваш приватний контент у застосунку, включно з нотатками, рефлексіями, відповідями та записами, пов'язаними з взаєминами, зберігається локально на вашому пристрої.
 
-Wir erheben wissentlich keine personenbezogenen Daten von Kindern unter 13 Jahren.
-
-Wenn Sie der Ansicht sind, dass ein Kind unter 13 Jahren personenbezogene Informationen über die App bereitgestellt hat, kontaktieren Sie uns bitte, damit wir den Fall prüfen und entsprechend handeln können.
+Обмежені облікові, аналітичні, діагностичні дані та дані, пов'язані з підписками, можуть оброблятися довіреними постачальниками послуг лише для підтримки функціональності застосунку.
 
 ---
 
-## 10. Änderungen an dieser Erklärung
+## 7. Сторонні сервіси
 
-Diese Datenschutzerklärung kann von Zeit zu Zeit aktualisiert werden.
+SeeSi може використовувати довірених сторонніх постачальників послуг для таких цілей, як:
 
-Änderungen werden an dieser Stelle veröffentlicht. Wenn Sie die App nach einer Aktualisierung weiterhin nutzen, gilt dies als Zustimmung zur überarbeiteten Datenschutzerklärung.
+- автентифікація;
+- звітування про збої;
+- аналітика застосунку;
+- підтримка підписок і покупок.
+
+Ці сервіси обробляють лише ті дані, які необхідні для виконання їхньої функції.
 
 ---
 
-## 11. Kontakt
+## 8. Керування даними
 
-Wenn Sie Fragen zu dieser Datenschutzerklärung haben, kontaktieren Sie uns bitte:
+Ви зберігаєте контроль над своїми даними.
 
-E-Mail: support@seesi.app
+У застосунку ви можете:
+
+- видалити локально збережені дані застосунку на вашому пристрої;
+- видалити свій обліковий запис;
+- вийти зі свого облікового запису;
+- захистити доступ за допомогою PIN-коду;
+- увімкнути або вимкнути аналітику застосунку.
+
+Видалення облікового запису прибирає з пристрою ваш локально збережений контент, включно з доданими людьми та їхніми фото.
+
+Видалення застосунку видаляє локально збережений контент застосунку з вашого пристрою, але не видаляє автоматично ваш обліковий запис або серверні дані доступу до облікового запису.
+
+---
+
+## 9. Конфіденційність дітей
+
+SeeSi не призначений для дітей віком до 13 років.
+
+Ми свідомо не збираємо персональну інформацію від дітей віком до 13 років.
+
+Якщо ви вважаєте, що дитина віком до 13 років надала персональну інформацію через застосунок, будь ласка, зв'яжіться з нами, щоб ми могли розглянути ситуацію та вжити відповідних заходів.
+
+---
+
+## 10. Зміни до цієї Політики
+
+Ця Політика конфіденційності може час від часу оновлюватися.
+
+Будь-які зміни будуть опубліковані за цією адресою. Подальше використання застосунку після оновлення означає вашу згоду з оновленою редакцією Політики конфіденційності.
+
+---
+
+## 11. Контакти
+
+Якщо у вас є запитання щодо цієї Політики конфіденційності, зв'яжіться з нами:
+
+Email: support@seesi.app
+
+---
