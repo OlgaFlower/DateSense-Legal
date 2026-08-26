@@ -54,6 +54,8 @@ When you delete a person, delete your data, or delete your account in the app, t
 
 When analytics is on, it records which screens are opened and which features are used — for example, that a questionnaire was completed. It never includes the content of your answers, the names or photos of people you added, or anything else you typed.
 
+Analytics also records an approximate region, worked out from your IP address, and an identifier for the app installation on this device. The region is a country or city area, never a precise location, and neither is linked to your name or your account.
+
 **Crash diagnostics work separately and are always active.** If the app crashes, a report is sent so the problem can be fixed. A report describes the failure itself, along with the device model and operating system version. It does not contain your notes, questionnaire answers, or information about people you added.
 
 ---
